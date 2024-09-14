@@ -1,0 +1,353 @@
+[
+    {
+        "user_id": "5e2696e561fdc6df60d43b5f",
+        "books": [
+            "Title",
+            "Fundamentals of Wavelets",
+            "Data Smart",
+            "God Created the Integers",
+            "Superfreakonomics",
+            "Orientalism",
+            "Nature of Statistical Learning Theory, The",
+            "Integration of the Indian States"
+        ]
+    },
+    {
+        "user_id": "5e2696e5e41b533b9c781cbb",
+        "books": [
+            "Drunkard's Walk, The",
+            "Image Processing & Mathematical Morphology",
+            "How to Think Like Sherlock Holmes",
+            "Data Scientists at Work",
+            "Slaughterhouse Five",
+            "Birth of a Theorem",
+            "Structure & Interpretation of Computer Programs",
+            "Age of Wrath, The"
+        ]
+    },
+    {
+        "user_id": "5e2696e56de4bbafd54d3587",
+        "books": [
+            "Trial, The",
+            "Statistical Decision Theory'",
+            "Data Mining Handbook",
+            "New Machiavelli, The",
+            "Physics & Philosophy",
+            "Making Software",
+            "Analysis, Vol I",
+            "Machine Learning for Hackers"
+        ]
+    },
+    {
+        "user_id": "5e2696e53c90e9cbfff5aa41",
+        "books": [
+            "Signal and the Noise, The",
+            "Python for Data Analysis",
+            "Introduction to Algorithms",
+            "Beautiful and the Damned, The",
+            "Outsider, The",
+            "Complete Sherlock Holmes, The - Vol I",
+            "Complete Sherlock Holmes, The - Vol II",
+            "Wealth of Nations, The"
+        ]
+    },
+    {
+        "user_id": "5e2696e5ecad926b76309b06",
+        "books": [
+            "Pillars of the Earth, The",
+            "Tao of Physics, The",
+            "Surely You're Joking Mr Feynman",
+            "Farewell to Arms, A",
+            "Veteran, The",
+            "False Impressions",
+            "Last Lecture, The",
+            "Return of the Primitive"
+        ]
+    },
+    {
+        "user_id": "5e2696e5334cde0ce1af76c8",
+        "books": [
+            "Jurassic Park",
+            "Russian Journal, A",
+            "Tales of Mystery and Imagination",
+            "Freakonomics",
+            "Hidden Connections, The",
+            "Story of Philosophy, The",
+            "Asami Asami",
+            "Journal of a Novel"
+        ]
+    },
+    {
+        "user_id": "5e2696e54e08309d9f5ea63b",
+        "books": [
+            "Once There Was a War",
+            "Moon is Down, The",
+            "Brethren, The",
+            "In a Free State",
+            "Catch 22",
+            "Complete Mastermind, The",
+            "Dylan on Dylan",
+            "Soft Computing & Intelligent Systems"
+        ]
+    },
+    {
+        "user_id": "5e2696e55cea2cc6a4e23c98",
+        "books": [
+            "Textbook of Economic Theory",
+            "Econometric Analysis",
+            "Learning OpenCV",
+            "Data Structures Using C & C++",
+            "Computer Vision, A Modern Approach",
+            "Principles of Communication Systems",
+            "Let Us C",
+            "Amulet of Samarkand, The"
+        ]
+    },
+    {
+        "user_id": "5e2696e5075f72eb75b9f19f",
+        "books": [
+            "Crime and Punishment",
+            "Angels & Demons",
+            "Argumentative Indian, The",
+            "Sea of Poppies",
+            "Idea of Justice, The",
+            "Raisin in the Sun, A",
+            "All the President's Men",
+            "Prisoner of Birth, A"
+        ]
+    },
+    {
+        "user_id": "5e2696e5e1e3178a031395a4",
+        "books": [
+            "Scoop!",
+            "Ahe Manohar Tari",
+            "Last Mughal, The",
+            "Social Choice & Welfare, Vol 39 No. 1",
+            "Radiowaril Bhashane & Shrutika",
+            "Gun Gayin Awadi",
+            "Aghal Paghal",
+            "Maqta-e-Ghalib"
+        ]
+    },
+    {
+        "user_id": "5e2696e56c1380ffbcb766a7",
+        "books": [
+            "Beyond Degrees",
+            "Manasa",
+            "India from Midnight to Milennium",
+            "World's Greatest Trials, The",
+            "Great Indian Novel, The",
+            "O Jerusalem!",
+            "City of Joy, The",
+            "Freedom at Midnight"
+        ]
+    },
+    {
+        "user_id": "5e2696e55c3307acf755d71b",
+        "books": [
+            "Winter of Our Discontent, The",
+            "On Education",
+            "Free Will",
+            "Bookless in Baghdad",
+            "Case of the Lame Canary, The",
+            "Theory of Everything, The",
+            "New Markets & Other Essays",
+            "Electric Universe"
+        ]
+    },
+    {
+        "user_id": "5e2696e5eee7e916099e072b",
+        "books": [
+            "Hunchback of Notre Dame, The",
+            "Burning Bright",
+            "Age of Discontuinity, The",
+            "Doctor in the Nude",
+            "Down and Out in Paris & London",
+            "Identity & Violence",
+            "Beyond the Three Seas",
+            "World's Greatest Short Stories, The"
+        ]
+    },
+    {
+        "user_id": "5e2696e53a0787549dc666b1",
+        "books": [
+            "Talking Straight",
+            "Maugham's Collected Short Stories, Vol 3",
+            "Phantom of Manhattan, The",
+            "Ashenden of The British Agent",
+            "Zen & The Art of Motorcycle Maintenance",
+            "Great War for Civilization, The",
+            "We the Living",
+            "Artist and the Mathematician, The"
+        ]
+    },
+    {
+        "user_id": "5e2696e5789ee072ba71b2a5",
+        "books": [
+            "History of Western Philosophy",
+            "Selected Short Stories",
+            "Rationality & Freedom",
+            "Clash of Civilizations and Remaking of the World Order",
+            "Uncommon Wisdom",
+            "One",
+            "Karl Marx Biography",
+            "To Sir With Love"
+        ]
+    },
+    {
+        "user_id": "5e2696e52b8620e2cbb90c83",
+        "books": [
+            "Half A Life",
+            "Discovery of India, The",
+            "Apulki",
+            "Unpopular Essays",
+            "Deceiver, The",
+            "Veil: Secret Wars of the CIA",
+            "Char Shabda"
+        ]
+    },
+    {
+        "user_id": "5e2696e56b574aef6b6da396",
+        "books": [
+            "Rosy is My Relative",
+            "Moon and Sixpence, The",
+            "Political Philosophers",
+            "Short History of the World, A",
+            "Trembling of a Leaf, The",
+            "Doctor on the Brain",
+            "Simpsons & Their Mathematical Secrets"
+        ]
+    },
+    {
+        "user_id": "5e2696e578f40fefcf216b80",
+        "books": [
+            "Pattern Classification",
+            "From Beirut to Jerusalem",
+            "Code Book, The",
+            "Age of the Warrior, The",
+            "Final Crisis",
+            "Killing Joke, The",
+            "Flashpoint"
+        ]
+    },
+    {
+        "user_id": "5e2696e5e8dba3478fdbf7f9",
+        "books": [
+            "Batman Earth One",
+            "Crisis on Infinite Earths",
+            "Numbers Behind Numb3rs, The",
+            "Superman Earth One - 1",
+            "Superman Earth One - 2",
+            "Justice League: Throne of Atlantis",
+            "Justice League: The Villain's Journey"
+        ]
+    },
+    {
+        "user_id": "5e2696e569c3cd480a1daead",
+        "books": [
+            "Death of Superman, The",
+            "History of the DC Universe",
+            "Batman: The Long Halloween",
+            "Life in Letters, A",
+            "Information, The",
+            "Journal of Economics, vol 106 No 3",
+            "Elements of Information Theory"
+        ]
+    },
+    {
+        "user_id": "5e2696e51cfb1999ffd17c67",
+        "books": [
+            "Power Electronics - Rashid",
+            "Power Electronics - Mohan",
+            "Neural Networks",
+            "Grapes of Wrath, The",
+            "Vyakti ani Valli",
+            "Statistical Learning Theory",
+            "Empire of the Mughal - The Tainted Throne"
+        ]
+    },
+    {
+        "user_id": "5e2696e5b9a69e99b9e1fd0c",
+        "books": [
+            "Empire of the Mughal - Brothers at War",
+            "Empire of the Mughal - Ruler of the World",
+            "Empire of the Mughal - The Serpent's Tooth",
+            "Empire of the Mughal - Raiders from the North",
+            "Mossad",
+            "Jim Corbett Omnibus",
+            "20000 Leagues Under the Sea"
+        ]
+    },
+    {
+        "user_id": "5e2696e50ae7507c7b0224f2",
+        "books": [
+            "Batatyachi Chal",
+            "Hafasavnuk",
+            "Urlasurla",
+            "Pointers in C",
+            "Cathedral and the Bazaar, The",
+            "Design with OpAmps",
+            "Think Complexity"
+        ]
+    },
+    {
+        "user_id": "5e2696e50618b76e973b472c",
+        "books": [
+            "Devil's Advocate, The",
+            "Ayn Rand Answers",
+            "Philosophy: Who Needs It",
+            "World's Great Thinkers, The",
+            "Data Analysis with Open Source Tools",
+            "Broca's Brain",
+            "Men of Mathematics"
+        ]
+    },
+    {
+        "user_id": "5e2696e55158d54bef1e8084",
+        "books": [
+            "Oxford book of Modern Science Writing",
+            "Justice, Judiciary and Democracy",
+            "Arthashastra, The",
+            "We the People",
+            "We the Nation",
+            "Courtroom Genius, The",
+            "Dongri to Dubai"
+        ]
+    },
+    {
+        "user_id": "5e2696e5c113d7c5468253e8",
+        "books": [
+            "History of England, Foundation",
+            "City of Djinns",
+            "India's Legal System",
+            "More Tears to Cry",
+            "Ropemaker, The",
+            "Angels & Demons",
+            "Judge, The"
+        ]
+    },
+    {
+        "user_id": "5e2696e5ce5ce9b29c226e8a",
+        "books": [
+            "Attorney, The",
+            "Prince, The",
+            "Eyeless in Gaza",
+            "Tales of Beedle the Bard",
+            "Girl with the Dragon Tattoo",
+            "Girl who kicked the Hornet's Nest",
+            "Girl who played with Fire"
+        ]
+    },
+    {
+        "user_id": "5e2696e5562c047a17bc553e",
+        "books": [
+            "Batman Handbook",
+            "Murphy's Law",
+            "Structure and Randomness",
+            "Image Processing with MATLAB",
+            "Animal Farm",
+            "Idiot, The",
+            "Christmas Carol, A"
+        ]
+    }
+]
