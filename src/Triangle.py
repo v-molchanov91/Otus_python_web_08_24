@@ -1,8 +1,8 @@
 from src.Figure import Figure
+import math
 
 
 class Triangle(Figure):
-
     def __init__(self, side_a, side_b, side_c):
         super().__init__()
         if not all(isinstance(x, (int, float)) for x in (side_a, side_b, side_c)):
@@ -15,11 +15,10 @@ class Triangle(Figure):
         self.side_b = side_b
         self.side_c = side_c
 
-    @property
     def get_area(self):
-        return (1 / 2) * (self.side_a * self.side_b * self.side_c) ** 0.5
+        s = (self.side_a + self.side_b + self.side_c) / 2
+        return math.sqrt(s * (s - self.side_a) * (s - self.side_b) * (s - self.side_c))
 
-    @property
     def get_perimeter(self):
         return self.side_a + self.side_b + self.side_c
 
